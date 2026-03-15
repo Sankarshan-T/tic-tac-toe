@@ -6,3 +6,5 @@ I made this simple project just to retest my python skills as i have been workin
 - Download the ticTacToe.zip file
 - Extract the .zip file
 - Open main.exe and play!
+
+![image](<Screenshot 2026-03-15 155529.png>)
